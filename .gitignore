@@ -1,7 +1,11 @@
-# User-specific stuff:
-.idea/workspace.xml
-.idea/tasks.xml
+# Don't commit data
+data/
 
+# User-specific stuff:
+.idea/
+.ipynb_checkpoints/
+.venv
+german.model
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
